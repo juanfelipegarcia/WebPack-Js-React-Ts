@@ -1,0 +1,1 @@
+console.log("Hola mundo sin con figuracion WebPack");
